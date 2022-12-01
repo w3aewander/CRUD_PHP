@@ -14,4 +14,6 @@
         <br>Vamos usar também o PDO para as transações no banco. <br>
     </div>
 
-  <?php require  __DIR__ . '/footer.php'; ?>
+  </div>
+
+<?php require  __DIR__ . '/footer.php'; ?>
