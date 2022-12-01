@@ -48,7 +48,7 @@
 ?>
 
 
-<div class="container mb-2">
+<div class="container mb-5">
     <h1>Inserir novo Produto</h1>
     <hr />
 

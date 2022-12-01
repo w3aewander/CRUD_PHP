@@ -20,8 +20,8 @@
       
 
     </div>
-    <nav class="p-2 mx-auto mb-5">
-            <a href="/produtos/listar.php">Listar</a>
-            <a href="/produtos/inserir.php">Inserir</a>
-            <a href="/sobre.php">Sobre</a>
+    <nav class="p-3 ml-auto  mb-5 w-100">
+            <a class="btn btn-block btn-link" href="/produtos/listar.php"><i class="fa fa-table fa-fw"></i> Listar</a>
+            <a class="btn btn-block btn-link" href="/produtos/inserir.php"><i class="fa fa-plus-circle fa-fw"></i> Inserir</a>
+            <a class="btn btn-block btn-link" href="/sobre.php"><i class="fa fa-question fa-fw"></i> Sobre</a>
         </nav>

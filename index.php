@@ -15,15 +15,13 @@
             <p>Escolha a operação.</p>
            
             <div class="list-group">
-                <a class="list-group-item btn btn-danger btn-block " href="sobre.php">Leia-me</a>
+                
+                <a class="list-group-item btn btn-primary btn-block text-start" href="produtos/listar.php"><i class="fa fa-table fa-fw"></i>Listar</a>
+                
+                <a class="list-group-item btn btn-primary btn-block text-start" href="produtos/inserir.php"><i class="fa fa-plus-circle fa-fw"></i>Inserir</a>
             
-                <a class="list-group-item btn btn-danger btn-block " href="produtos/listar.php">Inserir</a>
+                <a class="list-group-item btn btn-primary btn-block text-start" href="sobre.php"><i class="fa fa-question fa-fw"></i>Sobre</a>
             
-                <a class="list-group-item btn btn-danger btn-block " href="produtos/listar.php">Inserir</a>
-            
-                <a class="list-group-item btn btn-danger btn-block " href="produtos/listar.php">Inserir</a>
-            
-                <a class="list-group-item btn btn-danger btn-block " href="produtos/listar.php">Inserir</a>
             </div>
             
         </div>   

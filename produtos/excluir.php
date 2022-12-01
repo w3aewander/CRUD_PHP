@@ -1,7 +1,7 @@
 <?php require '../header.php'?>
 <?php require '../config/conexao.php'; ?>
 
-<div class="container mb-2">
+<div class="container mb-5">
     <h1>Excluir Produto</h1>
     <hr />
 
