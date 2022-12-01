@@ -24,7 +24,8 @@
             
             </div>
             
-        </div>   
+        </div>  
     </div>
-    
+</div>
+
 <?php require __DIR__ . '/footer.php'?>

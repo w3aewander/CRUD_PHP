@@ -18,9 +18,9 @@
       <h1>CRUD Básico em PHP</h1>
       <span class="small">Prof. Wanderlei Silva do Carmo</span>
       
-
     </div>
     <nav class="p-3 ml-auto  mb-5 w-100">
+            <a class="btn btn-block btn-link" href="/"><i class="fa fa-table fa-fw"></i> Página inicial</a>
             <a class="btn btn-block btn-link" href="/produtos/listar.php"><i class="fa fa-table fa-fw"></i> Listar</a>
             <a class="btn btn-block btn-link" href="/produtos/inserir.php"><i class="fa fa-plus-circle fa-fw"></i> Inserir</a>
             <a class="btn btn-block btn-link" href="/sobre.php"><i class="fa fa-question fa-fw"></i> Sobre</a>
