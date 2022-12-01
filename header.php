@@ -16,7 +16,7 @@
 
   <div class="jumbotron p-5 bg-primary text-white m1-5">
       <h1>CRUD Básico em PHP</h1>
-      <span class="small">Prof. Wanderlei Silva do Carmo <wander.silva@gmail.com></span>
+      <span class="small">Prof. Wanderlei Silva do Carmo</span>
       
 
     </div>

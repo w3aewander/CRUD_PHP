@@ -1,5 +1,5 @@
 <?php require '../header.php'?>
-    <div class="container mb-5">
+<div class="container mb-5">
     <h1>Inserir novo Produto</h1>
     <hr />
 
@@ -56,6 +56,7 @@
     <?php 
      
      require '../config/conexao.php';
+
      if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
         $descricao = $_REQUEST['produto_descricao'];
         $preco_custo = $_REQUEST['produto_preco_custo'];
@@ -82,5 +83,5 @@
         header("Location: /index.php");
      }
     ?>
- 
+</div>
 <?php require '../footer.php'?>

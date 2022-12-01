@@ -29,8 +29,8 @@
                     <td><?= $produto->preco_venda?></td>
                     <td><?= $produto->qtde_estoque?></td>
                     <td>
-                        <a class="btn btn-info btn-sm" href="/produtos/atualizar.php?id=<?=$produto->id?>">Editar</a>
-                        <a class="btn btn-danger btn-sm" href="/produtos/excluir.php?id=<?=$produto->id?>">Excluir</a>
+                        <a class="btn btn-info btn-sm" href="/produtos/atualizar.php?id=<?=$produto->id?>"><i class="far fa-edit fa-fw"></i> Editar</a>
+                        <a class="btn btn-danger btn-sm" href="/produtos/excluir.php?id=<?=$produto->id?>"><i class="fa fa-trash fa-fw"></i> Excluir</a>
                     </td>
                 </tr>
 
