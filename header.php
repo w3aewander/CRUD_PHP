@@ -14,10 +14,9 @@
 
 <body>
 
-  <div class="jumbotron p-5 bg-primary text-white m1-5">
+   <div class="jumbotron p-5 bg-jairo shadow text-white m1-5">
       <h1>CRUD Básico em PHP</h1>
       <span class="small">Prof. Wanderlei Silva do Carmo</span>
-      
     </div>
     <nav class="p-3 ml-auto  mb-5 w-100">
             <a class="btn btn-block btn-link" href="/"><i class="fa fa-table fa-fw"></i> Página inicial</a>
